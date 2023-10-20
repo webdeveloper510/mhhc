@@ -1,0 +1,17 @@
+
+# BEGIN WordPress
+# The directives (lines) between "BEGIN WordPress" and "END WordPress" are
+# dynamically generated, and should only be modified via WordPress filters.
+# Any changes to the directives between these markers will be overwritten.
+
+# END WordPress
+
+# START: All in One SEO Sitemap Rewrite Rules
+# Do not make edits to these rules!
+<IfModule mod_rewrite.c>
+	RewriteEngine On
+
+	RewriteRule sitemap(|[0-9]+)\.xml$ /index.php [L]
+	RewriteRule (default|video)-sitemap\.xsl /index.php [L]
+</IfModule>
+# END: All in One SEO Sitemap Rewrite Rules

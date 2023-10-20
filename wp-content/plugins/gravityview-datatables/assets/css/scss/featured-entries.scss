@@ -1,0 +1,83 @@
+// Include the DataTables source
+@import "../../../node_modules/datatables.net-src/css/jquery.dataTables.scss";
+
+.gv-datatables-container table.dataTable.display tbody tr.gv-featured-entry {
+
+	// Set the yellow background color
+	$table-row-background: #ffffc3!global;
+
+	// Darken using a dark orange instead of black
+	$table-shade: #8a8304!global;
+
+	background-color: $table-row-background;
+
+	&.selected {
+		background-color: $table-row-selected;
+	}
+
+	&.odd {
+		background-color: shade($table-row-background, 2.35%); // shade by f9
+
+		&.selected {
+			background-color: shade($table-row-selected, 2.35%);
+		}
+	}
+
+	&:hover,
+	&.odd:hover,
+	&.even:hover {
+		background-color: shade($table-row-background, 3.6%); // shade by f5
+
+		&.selected {
+			background-color: shade($table-row-selected, 3.6%);
+		}
+	}
+
+	&>.sorting_1,
+	&>.sorting_2,
+	&>.sorting_3 {
+		background-color: shade($table-row-background, 2%); // shade by fa
+	}
+
+	&.selected>.sorting_1,
+	&.selected>.sorting_2,
+	&.selected>.sorting_3 {
+		background-color: shade($table-row-selected, 2%);
+	}
+
+	&.odd {
+		>.sorting_1 { background-color: shade($table-row-background, 5.4%); } // shade by f1
+		>.sorting_2 { background-color: shade($table-row-background, 4.7%); } // shade by f3
+		>.sorting_3 { background-color: shade($table-row-background, 3.9%); } // shade by f5
+
+		&.selected {
+			>.sorting_1 { background-color: shade($table-row-selected, 5.4%); }
+			>.sorting_2 { background-color: shade($table-row-selected, 4.7%); }
+			>.sorting_3 { background-color: shade($table-row-selected, 3.9%); }
+		}
+	}
+
+	&.even {
+		>.sorting_1 { background-color: shade($table-row-background, 2%); } // shade by fa
+		>.sorting_2 { background-color: shade($table-row-background, 1.2%); } // shade by fc
+		>.sorting_3 { background-color: shade($table-row-background, 0.4%); } // shade by fe
+
+		&.selected {
+			>.sorting_1 { background-color: shade($table-row-selected, 2%); }
+			>.sorting_2 { background-color: shade($table-row-selected, 1.2%); }
+			>.sorting_3 { background-color: shade($table-row-selected, 0.4%); }
+		}
+	}
+
+	// Stripe classes - add "stripe" class to the table to activate
+	&.stripe tbody,
+	&.display tbody {
+		tr.odd {
+			background-color: shade($table-row-background, 2.35%); // shade by f9
+
+			&.selected {
+				background-color: shade($table-row-selected, 2.35%);
+			}
+		}
+	}
+}

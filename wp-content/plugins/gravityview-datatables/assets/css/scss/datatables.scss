@@ -1,0 +1,91 @@
+// Include the DataTables source
+@import "../../../node_modules/datatables.net-src/css/jquery.dataTables.scss";
+
+.gv-datatables-container {
+
+
+	// nowrap used on the table when Responsive extension is enabled
+	table.nowrap {
+		table-layout: auto; // forces the cell content to set the column width (enables good responsive calculation)
+		width: 100% !important; // overrides the fixed width calculated by the responsive algorithm
+	}
+
+	.dataTables_filter,
+	.dataTables_length {
+		white-space: nowrap;
+		width: auto;
+	}
+
+	.dataTables_wrapper .dataTables_processing {
+		z-index: 100000 !important;
+		height: auto;
+
+		background: rgba( 255, 255, 255, .98 );
+		border: 1px solid rgba( 230, 230, 230, .98 );
+		border-radius: 9px;
+
+		.dataTables_processing_text {
+			display: block;
+			padding: .75em .5em .5em .5em;
+			line-height: 1.5em;
+		}
+	}
+
+	.gv-dt-field-filter {
+		display: block;
+	}
+
+	// When Scroller is active, hide the page length selector
+	//div.DTS .dataTables_length{
+	//	display: none;
+	//}
+
+	.dataTables_length select {
+		padding-right: 25px;
+	}
+
+	input::-webkit-datetime-edit {
+		line-height: 1;
+		padding: 0;
+		margin-bottom: -.2em;
+	}
+
+}
+
+html[dir="rtl"] .gv-datatables-container {
+	.dataTables_length select {
+		padding-left: 25px;
+	}
+}
+
+.gv-table-view .gv-gallery .gv-field-file-uploads {
+	margin: 0;
+	padding: 0;
+}
+
+.gv-table-view .gv-gallery .gv-field-file-uploads li {
+	list-style: none;
+	display: inline-block;
+	max-width: 200px;
+	max-height: 200px;
+	margin-right: 1em;
+}
+
+.gv-table-view {
+	width: 100%;
+
+	th,
+	td {
+		padding: .3em;
+	}
+
+	th {
+		width: 35%;
+		vertical-align: top;
+	}
+
+}
+
+.DTTT_print_info {
+	z-index: 10;
+}

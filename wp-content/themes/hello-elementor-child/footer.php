@@ -31,5 +31,23 @@ if($page_id == '34'){ ?>
   });
 </script>
 <?php } ?>
+<script>
+jQuery("#input_7_28").val(jQuery.datepicker.formatDate("dd-mm-yy", new Date()));
+jQuery(document).ready(function() {
+    jQuery("input[name='input_20']").change(function() {
+        var selectedValue = jQuery("input[name='input_20']:checked").val();
+        // console.log("Selected Value: " + selectedValue);
+
+        // Check the selectedValue and set the value of the select field
+        if (selectedValue === "Paid") {
+            jQuery("#input_7_27").val("Processing");
+        } else if (selectedValue === "Unpaid") {
+            jQuery("#input_7_27").val("Unpaid");
+        }
+        // Add more conditions as needed
+    });
+});
+
+</script>
 </body>
 </html>

@@ -1,0 +1,273 @@
+Product Category	Product Name	Description	Terms	Whole Sale Price	Retail Price	Status
+Appliance	MC-100002	2 Year Small Appliance under $250.00	24	5.17	9.99	1
+Appliance	MC-100003	3 Year Small Appliance under $250.00	36	9.17	14.99	1
+Appliance	MC-100005	5 Year Small Appliance under $250.00	60	13.56	24.99	1
+Appliance	MC-100023	3 Year Small Appliance under $500.00	36	14.26	24.99	1
+Appliance	MC-100025	5 Year Small Appliance under $500.00	60	24.06	34.99	1
+Audio-Visual	MC-100142	2 Year Audio under $100.00	24	3.76	9.99	1
+Audio-Visual	MC-100144	4 Year Audio under $100.00	48	13.56	19.99	1
+Audio-Visual	MC-100162	2 Year Audio under $250.00	24	5.88	24.99	1
+Audio-Visual	MC-100164	4 Year Audio under $250.00	48	20.53	24.99	1
+Audio-Visual	MC-100182	2 Year Audio under $500.00	24	8.67	24.99	1
+Audio-Visual	MC-100184	4 Year Audio under $500.00	48	27.53	34.99	1
+Audio-Visual	MC-100204	"4 Year Audio under $1,000.00"	48	48.48	54.99	1
+Audio-Visual	MC-100222	"2 Year Audio under $1,500.00"	24	20.53	39.99	1
+Audio-Visual	MC-100224	"4 Year Audio under $1,500.00"	48	69.45	74.99	1
+Audio-Visual	MC-100242	"2 Year Audio under $2,000.00"	24	26.13	49.99	1
+Audio-Visual	MC-100244	"4 Year Audio under $2,000.00"	48	86.92	99.99	1
+Audio-Visual	MC-100262	"2 Year Audio under $2,500.00"	24	31.72	54.99	1
+Audio-Visual	MC-100264	"4 Year Audio under $2,500.00"	48	111.38	119.99	1
+Audio-Visual	MC-100282	"2 Year Audio under $4,000.00"	24	51.27	99.99	1
+Audio-Visual	MC-100284	"4 Year Audio under $4,000.00"	48	139.32	149.99	1
+Audio-Visual	MC-100302	"2 Year Audio under $5,000.00"	24	79.94	99.99	1
+Audio-Visual	MC-100304	"4 Year Audio under $5,000.00"	48	264.66	274.99	1
+General Consumer Electronics	MC-100341	1 Year Baby Care under $100.00	12	2.38	9.99	1
+General Consumer Electronics	MC-100361	1 Year Baby Care under $250.00	12	4.49	14.99	1
+General Consumer Electronics	MC-100402	2 Year Lens under $500.00	24	3.76	9.99	1
+General Consumer Electronics	MC-100405	5 Year Lens under $500.00	60	7.97	14.99	1
+General Consumer Electronics	MC-100422	"2 Year Lens under $1,500.00"	24	5.88	44.99	1
+General Consumer Electronics	MC-100425	"5 Year Lens under $1,500.00"	60	12.15	19.99	1
+General Consumer Electronics	MC-100442	"2 Year Lens under $3,000.00"	24	12.88	19.99	1
+General Consumer Electronics	MC-100445	"5 Year Lens under $3,000.00"	60	33.83	39.99	1
+General Consumer Electronics	MC-100462	"2 Year Lens under $7,500.00"	24	26.13	49.99	1
+General Consumer Electronics	MC-100465	"5 Year Lens under $7,500.00"	60	57.37	64.99	1
+General Consumer Electronics	MC-100481	1 Year Cellular Phone under $750.00	12	6.75	14.99	1
+General Consumer Electronics	MC-100482	2 Year Cellular Phone under $250.00	24	7.97	14.99	1
+General Consumer Electronics	MC-100501	1 Year Cellular Phone under $500.00	12	10.76	19.99	1
+General Consumer Electronics	MC-100502	2 Year Cellular Phone under $500.00	24	12.15	19.99	1
+General Consumer Electronics	MC-100521	1 Year Cellular Phone under $750.00	12	18.02	24.99	0
+General Consumer Electronics	MC-100522	2 Year Cellular Phone under $750.00	24	18.47	24.99	1
+General Consumer Electronics	MC-100541	"1 Year Cellular Phone under $1,000.00"	12	25.23	29.99	1
+General Consumer Electronics	MC-100542	"2 Year Cellular Phone under $1,000.00"	24	25.44	29.99	1
+General Consumer Electronics	MC-100562	"2 Year Cellular Phone under $1,500.00"	24	39.41	44.99	1
+Appliance	MC-100582	2 Year Commercial Appliance under $500.00	24	17.06	24.99	1
+Appliance	MC-100584	4 Year Commercial Appliance under $500.00	48	34.5	49.99	1
+Appliance	MC-100602	"2 Year Commercial Appliance under $1,000.00"	24	33.83	49.99	1
+Appliance	MC-100604	"4 Year Commercial Appliance under $1,000.00"	48	68.77	99.99	1
+Appliance	MC-100622	"2 Year Commercial Appliance under $1,500.00"	24	49.89	74.99	1
+Appliance	MC-100624	"4 Year Commercial Appliance under $1,500.00"	48	103.69	119.99	1
+Appliance	MC-100642	"2 Year Commercial Appliance under $2,500.00"	24	65.25	99.99	1
+Appliance	MC-100644	"4 Year Commercial Appliance under $2,500.00"	48	135.84	149.99	1
+Appliance	MC-100662	"2 Year Commercial Appliance under $5,000.00"	24	121.86	149.99	1
+Appliance	MC-100664	"4 Year Commercial Appliance under $5,000.00"	48	226.66	234.99	1
+Appliance	MC-100682	"2 Year Commercial Appliance under $7,500.00"	24	163.78	199.99	1
+Appliance	MC-100684	"4 Year Commercial Appliance under $7,500.00"	48	313.3	324.99	1
+General Consumer Electronics	MC-100703	"3 Yr, ADP from Day 1 under $500.00"	36	25.44	29.99	1
+General Consumer Electronics	MC-100721	"1 Year Computer under $1,000.00"	12	19.85	29.99	1
+General Consumer Electronics	MC-100741	"1 Year Computer under $2,000.00"	12	26.85	34.99	1
+General Consumer Electronics	MC-100742	"2 Year Computer under $2,000.00"	24	33.83	44.99	1
+General Consumer Electronics	MC-100744	"4 Year Computer under $2,000.00"	48	51.63	54.99	1
+General Consumer Electronics	MC-100761	"1 Year Computer under $3,000.00"	12	33.83	39.99	1
+General Consumer Electronics	MC-100762	"2 Year Computer under $3,000.00"	24	40.82	74.99	1
+General Consumer Electronics	MC-100763	"3 Year Computer under $3,000.00"	36	47.8	54.99	1
+General Consumer Electronics	MC-100783	"3 Year Computer under $4,000.00"	36	54.8	59.99	1
+General Consumer Electronics	MC-100803	"3 Year Computer under $5,000.00"	36	67.36	74.99	1
+General Consumer Electronics	MC-100822	2 Year Peripherals under $250.00	24	12.88	19.99	1
+General Consumer Electronics	MC-100842	2 Year Peripherals under $500.00	24	15.67	19.99	1
+General Consumer Electronics	MC-100862	2 Year Peripherals under $750.00	24	18.47	24.99	1
+General Consumer Electronics	MC-100882	"2 Year Peripherals under $1,000.00"	24	21.94	29.99	1
+General Consumer Electronics	MC-100902	"2 Year Peripherals under $1,500.00"	24	32.44	44.99	1
+General Consumer Electronics	MC-101003	"3 Year Digital Camera under $6,500.00"	36	40.09	44.99	1
+General Consumer Electronics	MC-101005	"5 Year Digital Camera under $6,500.00"	60	63.86	69.99	1
+General Consumer Electronics	MC-101243	3 Year DVD/VCR under $500.00	36	14.26	9.99	1
+General Consumer Electronics	MC-101403	3 Year Fax / Printer / Scanner under $250.00	36	12.15	14.99	1
+General Consumer Electronics	MC-101423	3 Year Fax / Printer / Scanner under $500.00	36	14.94	19.99	1
+General Consumer Electronics	MC-101443	3 Year Fax / Printer / Scanner under $750.00	36	17.74	24.99	1
+General Consumer Electronics	MC-101463	"3 Year Fax / Printer / Scanner under $1,500.00"	36	38.9	44.99	1
+General Consumer Electronics	MC-101483	"3 Year Fax / Printer / Scanner under $3,000.00"	36	61.77	69.99	1
+General Consumer Electronics	MC-101503	"3 Year Fax / Printer / Scanner under $5,000.00"	36	107.17	114.99	1
+General Consumer Electronics	MC-101542	2 Year Film Based Camera under $500.00	24	4.49	14.99	1
+General Consumer Electronics	MC-101543	3 Year Film Based Camera under $500.00	36	5.88	9.99	1
+General Consumer Electronics	MC-101545	5 Year Film Based Camera under $500.00	60	11.47	14.99	1
+General Consumer Electronics	MC-101562	"2 Year Film Based Camera under $1,000.00"	24	9.97	14.99	1
+General Consumer Electronics	MC-101563	"3 Year Film Based Camera under $1,000.00"	36	16.4	19.99	1
+General Consumer Electronics	MC-101565	"5 Year Film Based Camera under $1,000.00"	60	31.66	39.99	1
+General Consumer Electronics	MC-101582	"2 Year Film Based Camera under $3,000.00"	24	22.02	29.99	1
+General Consumer Electronics	MC-101623	3 Year Flash under $400.00	36	14.94	19.99	1
+General Consumer Electronics	MC-101643	"3 Year Flash under $1,000.00"	36	30.33	34.99	1
+General Consumer Electronics	MC-101664	4 Year GPS Device under $250.00	48	12.88	19.99	1
+General Consumer Electronics	MC-101682	2 Year GPS Device under $500.00	24	10.08	19.99	1
+General Consumer Electronics	MC-101684	4 Year GPS Device under $500.00	48	17.06	19.99	1
+General Consumer Electronics	MC-101702	"2 Year GPS Device under $1,000.00"	24	17.06	19.99	1
+General Consumer Electronics	MC-101704	"4 Year GPS Device under $1,000.00"	48	31.03	34.99	1
+General Consumer Electronics	MC-101722	"2 Year GPS Device under $1,500.00"	24	24.06	29.99	1
+General Consumer Electronics	MC-101724	"4 Year GPS Device under $1,500.00"	48	45	49.99	1
+General Consumer Electronics	MC-101742	"2 Year GPS Device under $2,500.00"	24	52	54.99	1
+Audio-Visual	MC-101762	2 Year HDTV Receiver	24	19.62	24.99	1
+Commercial Electronics	MC-101882	"2 Year Industrial Printer under $2,000.00"	24	58.98	74.99	1
+Commercial Electronics	MC-101884	"4 Year Industrial Printer under $2,000.00"	48	104.38	119.99	1
+Commercial Electronics	MC-101902	"2 Year Industrial Printer under $3,000.00"	24	86.92	99.99	1
+Commercial Electronics	MC-101904	"4 Year Industrial Printer under $3,000.00"	48	149.82	154.99	1
+Commercial Electronics	MC-101922	"2 Year Industrial Printer under $4,000.00"	24	121.86	124.99	1
+General Consumer Electronics	MC-101962	2 Year Tablet under $250.00	24	11.47	19.99	1
+General Consumer Electronics	MC-101982	2 Year Tablet under $500.00	24	18.47	24.99	1
+General Consumer Electronics	MC-102002	2 Year Tablet under $750.00	24	25.44	29.99	1
+General Consumer Electronics	MC-102012	"2 Year Tablet under $1,000.00"	24	40.7	44.99	1
+General Consumer Electronics	MC-102042	2 Year Lawn & Garden under $500.00	24	44.51	49.99	1
+General Consumer Electronics	MC-102102	"2 Year Lawn & Garden under $1,500.00"	24	88.33	99.99	1
+Appliance	MC-102201	1 Year Major Appliance under $500.00	12	6.56	14.99	1
+Appliance	MC-102202	2 Year Major Appliance under $500.00	24	12.15	19.99	1
+Appliance	MC-102203	3 Year Major Appliance under $500.00	36	23.33	34.99	1
+Appliance	MC-102221	"1 Year Major Appliance under $1,500.00"	12	7.97	14.99	1
+Appliance	MC-102222	"2 Year Major Appliance under $1,500.00"	24	16.35	24.99	1
+Appliance	MC-102241	"1 Year Major Appliance under $3,500.00"	12	17.06	24.99	1
+Appliance	MC-102242	"2 Year Major Appliance under $3,500.00"	24	30.33	44.99	1
+Appliance	MC-102243	"3 Year Major Appliance under $3,500.00"	36	37.3	49.99	1
+Appliance	MC-102261	"1 Year Major Appliance under $10,000.00"	12	68.77	99.99	1
+Appliance	MC-102262	"2 Year Major Appliance under $10,000.00"	24	131.64	199.99	1
+Appliance	MC-102263	"3 Year Major Appliance under $10,000.00"	36	159.59	174.99	1
+Appliance	MC-102264	"4 Year Major Appliance under $10,000.00"	48	208.5	219.99	1
+Appliance	MC-102265	"5 Year Major Appliance under $10,000.00"	60	243.43	259.99	1
+Furniture-Electronics	MC-102382	"2 Year Msg Chair In-Home under $1,500.00"	24	89.01	99.99	1
+Furniture-Electronics	MC-102383	"3 Year Msg Chair In-Home under $1,500.00"	36	110.69	119.99	1
+Furniture-Electronics	MC-102402	"2 Year Msg Chair In-Home under $2,500.00"	24	110.69	119.99	1
+Furniture-Electronics	MC-102403	"3 Year Msg Chair In-Home under $2,500.00"	36	149.79	154.99	1
+Furniture-Electronics	MC-102422	"2 Year Msg Chair In-Home under $5,000.00"	24	211.63	219.99	1
+General Consumer Electronics	MC-102483	3 Year Mobile Electronics under $500.00	36	24.06	14.99	1
+General Consumer Electronics	MC-102503	"3 Year Mobile Electronics under $1,000.00"	36	34.5	29.99	1
+General Consumer Electronics	MC-102583	"3 Year Mobile Electronics under $1,500.00"	36	91.93	39.99	1
+General Consumer Electronics	MC-102644	"3 Year Mobile Electronics under $3,500.00"	36	47.73	99.99	1
+General Consumer Electronics	MC-102662	4 Year Office Machines under $500.00	48	34.5	54.99	1
+General Consumer Electronics	MC-102664	"2 Year Office Machines under $1,000.00"	24	54.07	39.99	1
+General Consumer Electronics	MC-102684	"4 Year Office Machines under $1,000.00"	48	79.94	59.99	1
+General Consumer Electronics	MC-102704	"4 Year Office Machines under $1,500.00"	48	107.9	84.99	1
+General Consumer Electronics	MC-102722	"4 Year Office Machines under $2,500.00"	48	99.96	114.99	1
+General Consumer Electronics	MC-102724	"2 Year Office Machines under $3,500.00"	24	168.25	119.99	1
+General Consumer Electronics	MC-102782	"4 Year Office Machines under $3,500.00"	48	3.76	174.99	1
+General Consumer Electronics	MC-102784	2 Year Personal/Portable under $50.00	24	4.49	9.99	1
+General Consumer Electronics	MC-102802	4 Year Personal/Portable under $50.00	48	6.56	9.99	1
+General Consumer Electronics	MC-102804	2 Year Personal/Portable under $100.00	24	8.67	14.99	1
+General Consumer Electronics	MC-102822	4 Year Personal/Portable under $100.00	48	8.67	9.99	1
+General Consumer Electronics	MC-102824	2 Year Personal/Portable under $150.00	24	10.08	14.99	1
+General Consumer Electronics	MC-102841	4 Year Personal/Portable under $150.00	48	5.57	14.99	1
+General Consumer Electronics	MC-102844	2 Year Personal/Portable under $200.00	24	13.97	14.99	1
+General Consumer Electronics	MC-102862	4 Year Personal/Portable under $200.00	48	12.15	19.99	1
+General Consumer Electronics	MC-102864	2 Year Personal/Portable under $250.00	24	13.56	19.99	1
+General Consumer Electronics	MC-102882	4 Year Personal/Portable under $250.00	48	14.94	19.99	1
+General Consumer Electronics	MC-102884	2 Year Personal/Portable under $300.00	24	16.35	19.99	1
+General Consumer Electronics	MC-102902	4 Year Personal/Portable under $300.00	48	17.06	19.99	1
+General Consumer Electronics	MC-102922	2 Year Personal/Portable under $400.00	24	20.53	19.99	1
+General Consumer Electronics	MC-102924	2 Year Personal/Portable under $500.00	24	29.26	29.99	1
+General Consumer Electronics	MC-102943	4 Year Personal/Portable under $500.00	48	41.5	34.99	1
+General Consumer Electronics	MC-102963	3 Year Power Generator under $500.00	36	62.45	44.99	1
+General Consumer Electronics	MC-102983	"3 Year Power Generator under $1,000.00"	36	108.01	69.99	1
+General Consumer Electronics	MC-103003	"3 Year Power Generator under $1,500.00"	36	140.14	114.99	1
+General Consumer Electronics	MC-103062	"3 Year Power Generator under $2,500.00"	36	12.88	149.99	1
+General Consumer Electronics	MC-103083	2 Year On-Site Service DOP Upgrade	24	20.53	19.99	1
+General Consumer Electronics	MC-103122	3 Year Remote Control under $500.00	36	3.76	24.99	1
+General Consumer Electronics	MC-103124	2 Year Power Tools under $100.00	24	6.56	9.99	1
+General Consumer Electronics	MC-103142	4 Year Power Tools under $100.00	48	7.28	9.99	1
+General Consumer Electronics	MC-103144	2 Year Power Tools under $200.00	24	10.08	14.99	1
+General Consumer Electronics	MC-103162	4 Year Power Tools under $200.00	48	10.41	14.99	1
+General Consumer Electronics	MC-103164	2 Year Power Tools under $300.00	24	15.67	19.99	1
+General Consumer Electronics	MC-103182	4 Year Power Tools under $300.00	48	13.56	19.99	1
+General Consumer Electronics	MC-103184	2 Year Power Tools under $400.00	24	20.53	19.99	1
+General Consumer Electronics	MC-103202	4 Year Power Tools under $400.00	48	16.35	24.99	1
+General Consumer Electronics	MC-103204	2 Year Power Tools under $500.00	24	23.33	19.99	1
+General Consumer Electronics	MC-103222	4 Year Power Tools under $500.00	48	26.13	29.99	1
+General Consumer Electronics	MC-103224	2 Year Power Tools under $750.00	24	39.41	39.99	1
+General Consumer Electronics	MC-103242	4 Year Power Tools under $750.00	48	31.72	44.99	1
+General Consumer Electronics	MC-103244	"2 Year Power Tools under $1,000.00"	24	45.68	39.99	1
+General Consumer Electronics	MC-103262	"4 Year Power Tools under $1,000.00"	48	54.8	49.99	1
+General Consumer Electronics	MC-103264	"2 Year Power Tools under $1,500.00"	24	76.42	59.99	1
+General Consumer Electronics	MC-103282	"4 Year Power Tools under $1,500.00"	48	75.88	84.99	1
+General Consumer Electronics	MC-103322	"2 Year Pro Video under $2,500.00"	24	212.45	79.99	1
+General Consumer Electronics	MC-103441	"2 Year Pro Video under $7,500.00"	24	1.69	224.99	1
+General Consumer Electronics	MC-103442	1 Year Product Replacement under $50.00	12	3.56	4.99	1
+General Consumer Electronics	MC-103461	2 Year Product Replacement under $50.00	24	3.08	9.99	1
+General Consumer Electronics	MC-103462	1 Year Cellular Phone under $500.00	12	7.16	9.99	0
+General Consumer Electronics	MC-103481	1 Year Cellular Phone under $500.00	12	10.08	19.99	0
+General Consumer Electronics	MC-103482	1 Year Cellular Phone under $750.00	12	19.5	19.99	0
+General Consumer Electronics	MC-103501	2 Year Product Replacement under $250.00	24	13.56	29.99	1
+General Consumer Electronics	MC-103502	1 Year Product Replacement under $400.00	12	26.13	19.99	1
+General Consumer Electronics	MC-103521	2 Year Product Replacement under $400.00	24	17.06	39.99	1
+General Consumer Electronics	MC-103522	1 Year Product Replacement under $500.00	12	32.77	24.99	1
+General Consumer Electronics	MC-103541	2 Year Product Replacement under $500.00	24	16.35	44.99	1
+General Consumer Electronics	MC-103542	1 Year Projector under $750.00	12	23.68	24.99	1
+General Consumer Electronics	MC-103543	2 Year Projector under $750.00	24	31.03	29.99	1
+General Consumer Electronics	MC-103545	3 Year Projector under $750.00	36	48.48	34.99	1
+General Consumer Electronics	MC-103563	5 Year Projector under $750.00	60	61.07	54.99	1
+General Consumer Electronics	MC-103583	"3 Year Projector under $1,500.00"	36	80.63	69.99	1
+General Consumer Electronics	MC-103584	"3 Year Projector under $2,500.00"	36	100.74	89.99	1
+General Consumer Electronics	MC-103603	"4 Year Projector under $2,500.00"	48	94.6	114.99	1
+General Consumer Electronics	MC-103605	"3 Year Projector under $3,500.00"	36	156.22	99.99	1
+General Consumer Electronics	MC-103623	"5 Year Projector under $3,500.00"	60	124.87	164.99	1
+General Consumer Electronics	MC-103625	"3 Year Projector under $5,000.00"	36	180.32	129.99	1
+General Consumer Electronics	MC-103643	"5 Year Projector under $5,000.00"	60	156.22	199.99	1
+General Consumer Electronics	MC-103683	"3 Year Projector under $7,500.00"	36	86.92	164.99	1
+General Consumer Electronics	MC-103812	3 Year Projector Bulb Replacement	36	5.17	94.99	1
+General Consumer Electronics	MC-103813	2 Year Telephone under $100.00	24	7.97	9.99	1
+General Consumer Electronics	MC-103832	3 Year Telephone under $100.00	36	6.56	9.99	1
+General Consumer Electronics	MC-103833	2 Year Telephone under $150.00	24	10.08	14.99	1
+General Consumer Electronics	MC-103852	3 Year Telephone under $150.00	36	9.35	14.99	1
+General Consumer Electronics	MC-103853	2 Year Telephone under $200.00	24	12.15	14.99	1
+General Consumer Electronics	MC-103872	3 Year Telephone under $200.00	36	12.88	14.99	1
+General Consumer Electronics	MC-103873	2 Year Telephone under $250.00	24	14.94	19.99	1
+General Consumer Electronics	MC-103892	3 Year Telephone under $250.00	36	14.94	19.99	1
+General Consumer Electronics	MC-103893	2 Year Telephone under $300.00	24	17.74	19.99	1
+General Consumer Electronics	MC-103912	3 Year Telephone under $300.00	36	17.74	24.99	1
+General Consumer Electronics	MC-103913	2 Year Telephone under $400.00	24	21.26	19.99	1
+General Consumer Electronics	MC-103932	3 Year Telephone under $400.00	36	21.94	24.99	1
+General Consumer Electronics	MC-103933	2 Year Telephone under $500.00	24	25.44	24.99	1
+General Consumer Electronics	MC-103952	3 Year Telephone under $500.00	36	32.44	29.99	1
+General Consumer Electronics	MC-103953	2 Year Telephone under $750.00	24	37.3	44.99	1
+General Consumer Electronics	MC-103972	3 Year Telephone under $750.00	36	45	44.99	1
+General Consumer Electronics	MC-103973	"2 Year Telephone under $1,000.00"	24	52.68	49.99	1
+General Consumer Electronics	MC-103992	"3 Year Telephone under $1,000.00"	36	60.39	59.99	1
+General Consumer Electronics	MC-103993	"2 Year Telephone under $1,250.00"	24	66.66	74.99	1
+General Consumer Electronics	MC-104012	"3 Year Telephone under $1,250.00"	36	18.47	74.99	1
+General Consumer Electronics	MC-104013	2 Year TV/Monitor Carry-In under $500.00	24	24.74	24.99	1
+General Consumer Electronics	MC-104015	3 Year TV/Monitor Carry-In under $500.00	36	34.5	29.99	1
+General Consumer Electronics	MC-104031	5 Year TV/Monitor Carry-In under $500.00	60	21.94	39.99	1
+General Consumer Electronics	MC-104052	"1 Year TV/Monitor In-Home under $1,000.00"	12	40.09	29.99	1
+General Consumer Electronics	MC-104072	"2 Year Television In-Home under $1,500.00"	24	65.25	44.99	1
+General Consumer Electronics	MC-104092	"2 Year Television In-Home under $2,500.00"	24	86.92	74.99	1
+General Consumer Electronics	MC-104093	"2 Year Television In-Home under $3,500.00"	24	102.99	99.99	1
+General Consumer Electronics	MC-104112	"3 Year Television In-Home under $3,500.00"	36	120.04	114.99	1
+General Consumer Electronics	MC-104113	"2 Year Television In-Home under $5,000.00"	24	132.32	129.99	1
+Audio-Visual	MC-104115	"3 Year Television In-Home under $5,000.00"	36	191.74	139.99	1
+General Consumer Electronics	MC-104132	"5 Year Television In-Home under $5,000.00"	60	174.24	204.99	1
+Audio-Visual	MC-104133	"2 Year Television In-Home under $7,500.00"	24	234.13	199.99	1
+Audio-Visual	MC-104135	"3 Year Television In-Home under $7,500.00"	36	313.3	249.99	1
+Audio-Visual	MC-104153	"5 Year Television In-Home under $7,500.00"	60	243.43	324.99	1
+Audio-Visual	MC-104155	"3 Year Television In-Home under $10,000.00"	36	383.16	254.99	1
+Audio-Visual	MC-104173	"5 Year Television In-Home under $10,000.00"	60	332.98	409.99	1
+General Consumer Electronics	MC-104242	"3 Year Television In-Home under $12,500.00"	36	12.15	349.99	1
+General Consumer Electronics	MC-104244	2 Year Video Camera under $500.00	24	14.94	19.99	1
+General Consumer Electronics	MC-104262	4 Year Video Camera under $500.00	48	14.94	19.99	1
+General Consumer Electronics	MC-104264	"2 Year Video Camera under $1,000.00"	24	22.65	19.99	1
+General Consumer Electronics	MC-104282	"4 Year Video Camera under $1,000.00"	48	32.44	29.99	1
+General Consumer Electronics	MC-104284	"2 Year Video Camera under $3,000.00"	24	47.8	74.99	1
+General Consumer Electronics	MC-104302	"4 Year Video Camera under $3,000.00"	48	55.48	54.99	1
+General Consumer Electronics	MC-104322	"2 Year Video Camera under $5,000.00"	24	17.74	74.99	1
+General Consumer Electronics	MC-104324	2 Year Video Game Console under $500.00	24	33.26	19.99	1
+General Consumer Electronics	MC-10535	4 Year Video Game Console under $500.00	48	10	39.99	1
+General Consumer Electronics	MC-10536	"2 Year Audio under $1,000.00"	24	8.5	19.99	1
+General Consumer Electronics	MC-10537	1 Year Computer under $500.00	12	13.5	19.99	1
+General Consumer Electronics	MC-10538	2 Year Computer under $500.00	24	19.5	19.99	1
+General Consumer Electronics	MC-10539	"2 Year Computer under $1,000.00"	24	24.5	29.99	1
+General Consumer Electronics	MC-10540	"3 Year Computer under $1,000.00"	36	29.5	29.99	1
+General Consumer Electronics	MC-10541	"3 Year Computer under $2,000.00"	36	6.5	34.99	1
+General Consumer Electronics	MC-10542	3 Year Digital Camera under $500.00	36	9.5	9.99	1
+General Consumer Electronics	MC-10543	5 Year Digital Camera under $500.00	60	9.5	14.99	1
+General Consumer Electronics	MC-10544	"3 Year Digital Camera under $1,000.00"	36	14.5	14.99	1
+General Consumer Electronics	MC-10545	"5 Year Digital Camera under $1,000.00"	60	18.5	19.99	1
+General Consumer Electronics	MC-10546	"3 Year Digital Camera under $3,000.00"	36	34	24.99	1
+General Consumer Electronics	MC-10547	"5 Year Digital Camera under $3,000.00"	60	6	39.99	1
+Appliance	MC-10548	2 Year GPS Device under $250.00	24	19.5	14.99	1
+Appliance	MC-10549	4 Year Major Appliance under $500.00	48	29	29.99	1
+Appliance	MC-10550	5 Year Major Appliance under $500.00	60	20	34.99	1
+Appliance	MC-10551	"3 Year Major Appliance under $1,500.00"	36	24	24.99	1
+Appliance	MC-10552	"4 Year Major Appliance under $1,500.00"	48	37.5	34.99	1
+Appliance	MC-10553	"5 Year Major Appliance under $1,500.00"	60	34.5	49.99	1
+Appliance	MC-10554	"4 Year Major Appliance under $3,500.00"	48	49.5	49.99	1
+General Consumer Electronics	MC-10555	"5 Year Major Appliance under $3,500.00"	60	9.2	54.99	1
+General Consumer Electronics	MC-10556	1 Year Computer & Cellular Phone under $500.00	12	11.5	19.99	1
+Audio-Visual	MC-10557	1 Year Cellular Phone under $750.00	12	26	14.99	0
+Audio-Visual	MC-10558	"2 Year TV/Monitor In-Home under $1,000.00"	24	30	49.99	1
+Audio-Visual	MC-10559	"3 Year TV/Monitor In-Home under $1,000.00"	36	38	39.99	1
+Audio-Visual	MC-10560	"5 Year TV/Monitor In-Home under $1,000.00"	60	39	49.99	1
+Audio-Visual	MC-10561	"3 Year Television In-Home under $1,500.00"	36	60	44.99	1
+Audio-Visual	MC-10562	"5 Year Television In-Home under $1,500.00"	60	57	74.99	1
+Audio-Visual	MC-10563	"3 Year Television In-Home under $2,500.00"	36	87	64.99	1
+Audio-Visual	MC-10564	"5 Year Television In-Home under $2,500.00"	60	112.5	99.99	1
